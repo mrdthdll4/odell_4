@@ -1,0 +1,30 @@
+Date: 11/26/2019
+Name: Meredith Odell
+Email Address: mkodell@usf.edu
+Date Of Birth: 02/05/1999
+Status: Student
+Class Type: Animation
+Number Of Classes: 2
+Price Per Class: $99.95
+Total Price: $199.90
+Digital Editing
+Stop Motion
+Payment Type: Check
+Email Receipt Requested: Yes
+
+Date: 11/26/2019
+Name: Meredith Odell
+Email Address: mkodell@usf.edu
+Date Of Birth: 11/15/2000
+Status: Cinematographer
+Class Type: Live Action
+Number Of Classes: 4
+Price Per Class: $79.95
+Total Price: $319.80
+Cinematography
+Directing
+Producing
+Set Construction
+Payment Type: Cash
+Email Receipt Requested: No
+
